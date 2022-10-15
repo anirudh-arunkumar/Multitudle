@@ -1,12 +1,3 @@
-//=================================================================
-// Implementation for DLL module.
-//
-// Copyright 2022 Georgia Tech.  All rights reserved.
-// The materials provided by the instructor in this course are for
-// the use of the students currently enrolled in the course.
-// Copyrighted course materials may not be further disseminated.
-// This file must not be made publicly available anywhere.
-//=================================================================
 #include <stdlib.h>
 #include <stdio.h>
 #include "doubly_linked_list.h"
